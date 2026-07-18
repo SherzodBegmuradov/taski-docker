@@ -11,6 +11,7 @@ ALLOWED_HOSTS = ['84.252.135.4', '127.0.0.1', 'localhost', 'trulytestfirst.zapto
 
 # Application definition
 
+
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
