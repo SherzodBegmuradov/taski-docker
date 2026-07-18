@@ -9,7 +9,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['84.252.135.4', '127.0.0.1', 'localhost', 'trulytestfirst.zapto.org']
 
-
 # Application definition
 
 INSTALLED_APPS = [
